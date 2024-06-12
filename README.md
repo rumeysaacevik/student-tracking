@@ -1,2 +1,29 @@
 # student-tracking
 Student affairs information system with Java
+1) Main Purpose of the Project: 
+The aim of the student tracking system is to enter grades and absences of teachers registered 
+by admin and to keep track of students registered by admin. Detailed information about 
+students and instructors can be followed. 
+2) Program Objects and Relationship: 
+1. adminLogin Object: Represents the admin. 
+2. attendanceEntry Object: It represents the attendance entry screen by the instructor. 
+3. courses Object: All courses are displayed by the admin and the selected course is removed. 
+4. createCourses Object: Represents a new course registration made by admin. 
+5. deletion Object: Represents deregistration by admin 
+6. dropCourse Object: It represents that a course chosen by the student has been dropped by 
+the student again. 
+7. gradeEntry Object: Represents grades entered by the teacher  
+8. homePage Object: Represents student and instructor login 
+9.instructorLogin Object: Represents a list of actions the instructor wants to take 
+10. instructors Object: Represents the listing of all instructors by the student so that 
+information can be obtained  
+11.registration Object: Represents student and teacher registration by admin. 
+12.selectingCourse Object: Represent the student to view all courses and take the selected 
+course  
+13.studentLogin Object: Represents a list of actions the student wants to take 
+3) Rules: - The admin username and password are set automatically  - you will receive an error message when you try to log in with an unregistered student 
+username - you will receive an error message when you try to log in with an unregistered instructor 
+username  - When entering a grade from an instructor, you will receive an error if you enter a grade that 
+is not between 0 and 100.  - When you try to enter attendance information or grades for a student who is not registered, 
+you will receive an error message. - Multiple users cannot have the same ID. - Multiple users cannot have the same student number.  - Multiple users cannot have the same username. - You can delete courses one by one by selecting them. 
+-You must select the student or instructor position during the registration process
