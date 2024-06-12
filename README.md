@@ -1,10 +1,12 @@
 # student-tracking
 Student affairs information system with Java
+
 1) Main Purpose of the Project: 
 The aim of the student tracking system is to enter grades and absences of teachers registered 
 by admin and to keep track of students registered by admin. Detailed information about 
-students and instructors can be followed. 
-2) Program Objects and Relationship: 
+students and instructors can be followed.
+
+3) Program Objects and Relationship: 
 1. adminLogin Object: Represents the admin. 
 2. attendanceEntry Object: It represents the attendance entry screen by the instructor. 
 3. courses Object: All courses are displayed by the admin and the selected course is removed. 
@@ -27,3 +29,4 @@ username  - When entering a grade from an instructor, you will receive an error 
 is not between 0 and 100.  - When you try to enter attendance information or grades for a student who is not registered, 
 you will receive an error message. - Multiple users cannot have the same ID. - Multiple users cannot have the same student number.  - Multiple users cannot have the same username. - You can delete courses one by one by selecting them. 
 -You must select the student or instructor position during the registration process
+![new 1](https://github.com/rumeysaacevik/student-tracking/assets/169652554/c57672b9-9ad0-420f-84b6-5b629b727b65)
