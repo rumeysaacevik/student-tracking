@@ -8,33 +8,33 @@ students and instructors can be followed.
 
 2) Program Objects and Relationship:
    
-2.1 adminLogin Object: Represents the admin. 
+2.1) adminLogin Object: Represents the admin. 
 
-2.2 attendanceEntry Object: It represents the attendance entry screen by the instructor. 
+2.2) attendanceEntry Object: It represents the attendance entry screen by the instructor. 
 
-2.3 courses Object: All courses are displayed by the admin and the selected course is removed. 
+2.3) courses Object: All courses are displayed by the admin and the selected course is removed. 
 
-2.4 createCourses Object: Represents a new course registration made by admin. 
+2.4) createCourses Object: Represents a new course registration made by admin. 
 
-2.5 deletion Object: Represents deregistration by admin 
+2.5) deletion Object: Represents deregistration by admin 
 
-2.6 dropCourse Object: It represents that a course chosen by the student has been dropped by the student again. 
+2.6) dropCourse Object: It represents that a course chosen by the student has been dropped by the student again. 
 
-2.7 gradeEntry Object: Represents grades entered by the teacher  
+2.7) gradeEntry Object: Represents grades entered by the teacher  
 
-2.8 homePage Object: Represents student and instructor login 
+2.8) homePage Object: Represents student and instructor login 
 
-2.9 instructorLogin Object: Represents a list of actions the instructor wants to take 
+2.9) instructorLogin Object: Represents a list of actions the instructor wants to take 
 
-2.10 instructors Object: Represents the listing of all instructors by the student so that information can be obtained  
+2.10) instructors Object: Represents the listing of all instructors by the student so that information can be obtained  
 
-2.11 registration Object: Represents student and teacher registration by admin. 
+2.11) registration Object: Represents student and teacher registration by admin. 
 
-2.12 selectingCourse Object: Represent the student to view all courses and take the selected course 
+2.12) selectingCourse Object: Represent the student to view all courses and take the selected course 
 
-2.13 studentLogin Object: Represents a list of actions the student wants to take 
+2.13) studentLogin Object: Represents a list of actions the student wants to take 
 
-4) Rules:
+3) Rules:
 - The admin username and password are set automatically
 - you will receive an error message when you try to log in with an unregistered student username
 - you will receive an error message when you try to log in with an unregistered instructor username
