@@ -1,12 +1,12 @@
 # student-tracking
 Student affairs information system with Java
 
-1) Main Purpose of the Project: 
+# 1) Main Purpose of the Project: 
 The aim of the student tracking system is to enter grades and absences of teachers registered 
 by admin and to keep track of students registered by admin. Detailed information about 
 students and instructors can be followed.
 
-2) Program Objects and Relationship:
+# 2) Program Objects and Relationship:
    
 2.1) adminLogin Object: Represents the admin. 
 
@@ -34,7 +34,7 @@ students and instructors can be followed.
 
 2.13) studentLogin Object: Represents a list of actions the student wants to take 
 
-3) Rules:
+# 3) Rules:
 - The admin username and password are set automatically
 - you will receive an error message when you try to log in with an unregistered student username
 - you will receive an error message when you try to log in with an unregistered instructor username
