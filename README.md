@@ -1,50 +1,77 @@
-# student-tracking
-Student affairs information system with Java
+# 🎓 Java Student Tracking System
 
-# 1) Main Purpose of the Project: 
-The aim of the student tracking system is to enter grades and absences of teachers registered 
-by admin and to keep track of students registered by admin. Detailed information about 
-students and instructors can be followed.
+This project is a **Java-based student tracking system** developed during my early years of university as part of coursework and practice in **object-oriented programming and GUI-based application development**.
 
-# 2) Program Objects and Relationship:
-   
-2.1) adminLogin Object: Represents the admin. 
+The system aims to simulate a **basic academic management system** where student, instructor, and administrative operations can be handled through a desktop application.
 
-2.2) attendanceEntry Object: It represents the attendance entry screen by the instructor. 
+---
 
-2.3) courses Object: All courses are displayed by the admin and the selected course is removed. 
+## 🧩 Project Scenario
 
-2.4) createCourses Object: Represents a new course registration made by admin. 
+The application is designed for a university environment with three main user roles:
 
-2.5) deletion Object: Represents deregistration by admin 
+- **Students** can log in, register for courses, drop courses, and view their grades and attendance information.
+- **Instructors** can manage courses, enter grades, and record attendance.
+- **Administrators** can manage users, courses, and general system operations.
 
-2.6) dropCourse Object: It represents that a course chosen by the student has been dropped by the student again. 
+The system provides a simplified simulation of real-world **student information and course management workflows** using a Java GUI.
 
-2.7) gradeEntry Object: Represents grades entered by the teacher  
+---
 
-2.8) homePage Object: Represents student and instructor login 
+## 📌 Features
 
-2.9) instructorLogin Object: Represents a list of actions the instructor wants to take 
+- Student registration and login
+- Instructor and admin login
+- Course creation and management
+- Course selection and drop operations
+- Attendance entry
+- Grade entry and management
+- Viewing student academic information
+- Basic role-based access control (student / instructor / admin)
 
-2.10) instructors Object: Represents the listing of all instructors by the student so that information can be obtained  
+---
 
-2.11) registration Object: Represents student and teacher registration by admin. 
+## 🛠 Technologies Used
 
-2.12) selectingCourse Object: Represent the student to view all courses and take the selected course 
+- Java
+- Java Swing / GUI Forms (NetBeans)
+- Object-Oriented Programming (OOP)
+- Event handling
+- Basic file handling and data management
+- Desktop application development
 
-2.13) studentLogin Object: Represents a list of actions the student wants to take 
+---
 
-# 3) Rules:
-- The admin username and password are set automatically
-- you will receive an error message when you try to log in with an unregistered student username
-- you will receive an error message when you try to log in with an unregistered instructor username
-- When entering a grade from an instructor, you will receive an error if you enter a grade that is not between 0 and 100.
-- When you try to enter attendance information or grades for a student who is not registered, you will receive an error message.
-- Multiple users cannot have the same ID.
-- Multiple users cannot have the same student number.
-- Multiple users cannot have the same username.
-- You can delete courses one by one by selecting them. 
-- You must select the student or instructor position during the registration process
+## 📂 Project Structure
+
+The project consists of multiple Java classes and GUI form files, including:
+
+- Login interfaces for students, instructors, and administrators
+- Course and registration management modules
+- Attendance and grade entry modules
+- Student information and course selection screens
+- Connection and file management classes
+
+Each functionality is implemented in **separate Java and form files** to maintain modularity and readability.
+
+---
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained hands-on experience with:
+
+- Designing multi-screen Java desktop applications
+- Working with GUI components and event-driven programming
+- Applying object-oriented programming principles
+- Structuring medium-sized Java projects
+- Simulating real-world software system workflows
+
+---
+
+## 📚 Notes
+
+This project represents my **early-stage development experience** and is preserved to demonstrate my learning progress in Java and software engineering fundamentals.
+
 
 
 ![new 1](https://github.com/rumeysaacevik/student-tracking/assets/169652554/c57672b9-9ad0-420f-84b6-5b629b727b65)
