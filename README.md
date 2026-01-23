@@ -73,11 +73,3 @@ Through this project, I gained hands-on experience with:
 This project represents my **early-stage development experience** and is preserved to demonstrate my learning progress in Java and software engineering fundamentals.
 
 
-
-![new 1](https://github.com/rumeysaacevik/student-tracking/assets/169652554/c57672b9-9ad0-420f-84b6-5b629b727b65)
-
-![new 2](https://github.com/rumeysaacevik/student-tracking/assets/169652554/22a4b3a6-1501-4afd-934e-1bff77601ada)
-
-![new 3](https://github.com/rumeysaacevik/student-tracking/assets/169652554/5f94f508-4d23-45ef-ac52-b6c24c38a447)
-
-
