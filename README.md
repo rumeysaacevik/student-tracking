@@ -1,4 +1,4 @@
-# 🎓 Java Student Tracking System
+#  Java Student Tracking System
 
 This project is a **Java-based student tracking system** developed during my early years of university as part of coursework and practice in **object-oriented programming and GUI-based application development**.
 
@@ -6,7 +6,7 @@ The system aims to simulate a **basic academic management system** where student
 
 ---
 
-## 🧩 Project Scenario
+##  Project Scenario
 
 The application is designed for a university environment with three main user roles:
 
@@ -18,7 +18,7 @@ The system provides a simplified simulation of real-world **student information 
 
 ---
 
-## 📌 Features
+##  Features
 
 - Student registration and login
 - Instructor and admin login
@@ -31,7 +31,7 @@ The system provides a simplified simulation of real-world **student information 
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java
 - Java Swing / GUI Forms (NetBeans)
@@ -42,7 +42,7 @@ The system provides a simplified simulation of real-world **student information 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 The project consists of multiple Java classes and GUI form files, including:
 
@@ -56,7 +56,7 @@ Each functionality is implemented in **separate Java and form files** to maintai
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I gained hands-on experience with:
 
@@ -68,7 +68,7 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📚 Notes
+##  Notes
 
 This project represents my **early-stage development experience** and is preserved to demonstrate my learning progress in Java and software engineering fundamentals.
 
